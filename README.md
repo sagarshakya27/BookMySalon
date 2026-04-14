@@ -1,3 +1,6 @@
-# StyleSync
+#StyleSync
 “Style, Scheduled Smartly.”
-ookMySalon is a mobile application for booking salon appointments easily, built using React Native and Spring Boot.
+
+📱 About The Project
+StyleSync is a modern mobile application designed to simplify salon appointment booking.
+It allows users to discover nearby salons, book appointments seamlessly, and manage their schedules efficiently.
