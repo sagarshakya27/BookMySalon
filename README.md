@@ -1,5 +1,6 @@
 #StyleSync
-“Style, Scheduled Smartly.”
+
+Style, Scheduled Smartly.
 
 📱 About The Project
 StyleSync is a modern mobile application designed to simplify salon appointment booking.
