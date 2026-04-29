@@ -1,4 +1,4 @@
-# **StyleSync**
+# **Style Sync**
 
 ## Style, Scheduled Smartly.
 
